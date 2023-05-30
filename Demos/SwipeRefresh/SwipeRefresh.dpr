@@ -1,4 +1,4 @@
-program AppVersionCheckDemo;
+program SwipeRefresh;
 
 uses
   System.StartUpCopy,

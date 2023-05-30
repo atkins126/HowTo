@@ -1,4 +1,4 @@
-program AppVersionCheckDemo;
+program WallpaperDemo;
 
 uses
   System.StartUpCopy,
